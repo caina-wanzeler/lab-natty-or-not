@@ -20,16 +20,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🎯 Debate Filosófico
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Debate filosófico entre duas IAs, com o resultado do debate estando a cargo de outra IA
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Claude (Juiz), DeepSeek (Advogado), ChatGPT (Advogado)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Os "advogados" IA selecionaram seus temas, e assim se sucedeu um debate, com duas rodadas para cada, sendo um total de 4, divididas da seguinte forma:
+1. Argumento Inicial
+2. Contra-Argumento
+3. Réplica
+4. Tréplica
+Ao final, o "Juiz" decide quem venceu, usando critérios específicos para determinar o vencedor.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
